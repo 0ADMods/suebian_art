@@ -1,0 +1,8 @@
+{
+	"name": "suebian_art",
+	"version": "0.0.27",
+	"label": "suebian_art",
+	"url": "",
+	"description": "suebians_mod_struc",
+	"dependencies": ["0ad=0.0.27"]
+}
