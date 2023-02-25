@@ -12,36 +12,36 @@
     <variant frequency="1" name="celt house a">
       <mesh>structural/suebians/house_1.dae</mesh>
        <textures>
-        <texture file="structural/sueb_struct.png" name="baseTex"/>
-        <texture file="structural/sueb_struct_spec.png" name="specTex"/>
-        <texture file="structural/sueb_struct_norm.png" name="normTex"/>
+        <texture file="structural/old/sueb_struct.png" name="baseTex"/>
+        <texture file="structural/old/sueb_struct_spec.png" name="specTex"/>
+        <texture file="structural/old/sueb_struct_norm.png" name="normTex"/>
         <texture file="structural/ao/suebians/house_1_AO.png" name="aoTex"/>
 	  </textures>
     </variant>
     <variant frequency="1" name="celt house b">
       <mesh>structural/suebians/house_2.dae</mesh>
       <textures>
-        <texture file="structural/sueb_struct.png" name="baseTex"/>
-        <texture file="structural/sueb_struct_spec.png" name="specTex"/>
-        <texture file="structural/sueb_struct_norm.png" name="normTex"/>
+        <texture file="structural/old/sueb_struct.png" name="baseTex"/>
+        <texture file="structural/old/sueb_struct_spec.png" name="specTex"/>
+        <texture file="structural/old/sueb_struct_norm.png" name="normTex"/>
         <texture file="structural/ao/suebians/house_2_AO.png" name="aoTex"/>
 	  </textures>
     </variant>
     <variant frequency="1" name="celt house c">
       <mesh>structural/suebians/house_3.dae</mesh>
       <textures>
-        <texture file="structural/sueb_struct.png" name="baseTex"/>
-        <texture file="structural/sueb_struct_spec.png" name="specTex"/>
-        <texture file="structural/sueb_struct_norm.png" name="normTex"/>
+        <texture file="structural/old/sueb_struct.png" name="baseTex"/>
+        <texture file="structural/old/sueb_struct_spec.png" name="specTex"/>
+        <texture file="structural/old/sueb_struct_norm.png" name="normTex"/>
         <texture file="structural/ao/suebians/house_3_AO.png" name="aoTex"/>
 	  </textures>
     </variant>
      <variant frequency="1" name="celt house d">
       <mesh>structural/suebians/house_4.dae</mesh>
       <textures>
-        <texture file="structural/sueb_struct.png" name="baseTex"/>
-        <texture file="structural/sueb_struct_spec.png" name="specTex"/>
-        <texture file="structural/sueb_struct_norm.png" name="normTex"/>
+        <texture file="structural/old/sueb_struct.png" name="baseTex"/>
+        <texture file="structural/old/sueb_struct_spec.png" name="specTex"/>
+        <texture file="structural/old/sueb_struct_norm.png" name="normTex"/>
         <texture file="structural/ao/suebians/house_4_AO.png" name="aoTex"/>
 	  </textures>
     </variant>
