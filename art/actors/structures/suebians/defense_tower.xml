@@ -2,8 +2,7 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="1" name="gara Tower">
-      <mesh>structural/suebians/tower_stone.dae</mesh>
+    <variant frequency="1" name="Base">
       <props>
         <prop actor="props/structures/decals/spart_1x1.xml" attachpoint="root"/>
         <prop actor="props/units/weapons/arrow_front.xml" attachpoint="loaded-projectile"/>
@@ -15,6 +14,17 @@
         <texture file="structural/sueb_struct_spec.png" name="specTex"/>
         <texture file="structural/ao/suebians/tower_stone_AO.png" name="aoTex"/>
       </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="Tower Model 1">
+      <mesh>structural/suebians/tower_stone.dae</mesh>
+    </variant>
+    <variant frequency="1" name="Tower Model 2">
+      <mesh>structural/suebians/tower_stone_2.dae</mesh>
+    </variant>
+    <variant frequency="1" name="Tower Model 3">
+      <mesh>structural/suebians/tower_stone_3.dae</mesh>
     </variant>
   </group>
   <group>

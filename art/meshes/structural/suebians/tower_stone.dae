@@ -5,8 +5,8 @@
       <author>Blender User</author>
       <authoring_tool>Blender 2.91.2 commit date:2021-01-19, commit time:16:15, hash:5be9ef417703</authoring_tool>
     </contributor>
-    <created>2023-02-25T15:48:02</created>
-    <modified>2023-02-25T15:48:02</modified>
+    <created>2023-02-25T20:30:37</created>
+    <modified>2023-02-25T20:30:37</modified>
     <unit name="meter" meter="1"/>
     <up_axis>Z_UP</up_axis>
   </asset>
@@ -121,7 +121,7 @@
           <matrix sid="transform">-0.4448697 6.71735e-8 0 0.08513986 -6.71735e-8 -0.4448697 0 3.72158e-9 0 0 0.4448697 5.310785 0 0 0 0.9999999</matrix>
         </node>
         <node id="prop_projectile" name="prop_projectile" type="NODE">
-          <matrix sid="transform">-0.3934003 -3.43921e-8 0 0.08513986 3.43921e-8 -0.3934003 0 3.72158e-9 0 0 0.3934003 5.306029 0 0 0 0.9999999</matrix>
+          <matrix sid="transform">-0.3934003 -3.43921e-8 0 0.08513986 3.43921e-8 -0.3934003 0 3.72158e-9 0 0 0.3934003 3.173626 0 0 0 0.9999999</matrix>
         </node>
         <node id="prop_smoke" name="prop_smoke" type="NODE">
           <matrix sid="transform">-0.4448697 6.71735e-8 0 0.08513986 -6.71735e-8 -0.4448697 0 3.72158e-9 0 0 0.4448697 5.310446 0 0 0 0.9999999</matrix>
